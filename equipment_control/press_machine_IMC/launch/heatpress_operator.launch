@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<launch>
+  <node name="heatpress_operator" pkg="press_machine_IMC" type="heatpress_operator_node.py" output="screen">
+  </node>
+</launch>
