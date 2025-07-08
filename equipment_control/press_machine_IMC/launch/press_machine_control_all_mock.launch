@@ -1,5 +1,0 @@
-<?xml version="1.0"?>
-<launch>
-  <node name="press_machine_operator_mock" pkg="press_machine_IMC" type="press_machine_operator_mock_node.py" output="screen">
-  </node>
-</launch>

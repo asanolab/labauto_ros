@@ -1,5 +1,0 @@
-<?xml version="1.0"?>
-<launch>
-  <node name="cutter_operator" pkg="press_machine_IMC" type="cutter_operator_node.py" output="screen">
-  </node>
-</launch>
